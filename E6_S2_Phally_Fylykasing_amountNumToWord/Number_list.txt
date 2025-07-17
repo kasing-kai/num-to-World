@@ -1,0 +1,30 @@
+Number: 4000
+English: Four Thousand Riel
+Khmer: បួន ពាន់ រៀល
+USD: 1 $
+-------------------------
+Number: 150500
+English: One Hundred and Fifty Thousand Five Hundred Riel
+Khmer: ប្រាំ រយ មួយ រយ ហាសិប ពាន់ រៀល
+USD: 37.63 $
+-------------------------
+Number: 4321
+English: Four Thousand Three Hundred and Twenty-One Riel
+Khmer: បី រយ ម្ភៃមួយ បួន ពាន់ រៀល
+USD: 1.08 $
+-------------------------
+Number: 10121
+English: Ten Thousand One Hundred and Twenty-One Riel
+Khmer: មួយ រយ ម្ភៃមួយ ដប់ ពាន់ រៀល
+USD: 2.53 $
+-------------------------
+Number: 50000
+English: Fifty Thousand Riel
+Khmer: ហាសិប ពាន់ រៀល
+USD: 12.5 $
+-------------------------
+Number: 300
+English: Three Hundred Riel
+Khmer: បី រយ រៀល
+USD: 0.08 $
+-------------------------
